@@ -22,7 +22,7 @@ def ifft(x):
 
 
 def mul(a,b):
-	
+
 	x=a[:]
 	y=b[:]
 	n=2
